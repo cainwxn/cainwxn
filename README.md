@@ -1,5 +1,6 @@
 ## Olá! Me chamo Caio
 
+### Sou programador iniciante, focado em Python, Django e automação!
 
 
 <!---
