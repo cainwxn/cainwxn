@@ -1,6 +1,6 @@
 ## Olá! Me chamo Caio
 
-### Sou programador iniciante, focado em Python, Django e automação!
+### Sou programador iniciante com habilidades em Next.js e Python. O meu objetivo atualmente é desenvolver um SaaS direcionado pra lanchonetes.
 
 
 <!---
