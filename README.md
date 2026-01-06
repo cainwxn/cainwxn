@@ -1,9 +1,26 @@
-## Olá! Me chamo Caio
+# Olá! Me chamo Caio 👋
 
-### Sou programador iniciante com habilidades em Next.js e Python. O meu objetivo atualmente é desenvolver um SaaS direcionado pra lanchonetes.
+### Sou programador iniciante com habilidades em Next.js e Python. 
+O meu objetivo atualmente é desenvolver um **SaaS direcionado para lanchonetes** 🍔.
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+Aqui estão as tecnologias que tenho utilizando nos meus projetos:
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-<!---
-cainwxn/cainwxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+
+
+### 📫 Como me encontrar
+* **LinkedIn:** [Caio Alves](https://www.linkedin.com/in/caio-alves-4074832a0/)
+* **E-mail:** caioalvesconta2@gmail.com
+
+---
