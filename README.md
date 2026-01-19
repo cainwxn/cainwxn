@@ -1,7 +1,7 @@
 # Olá! Me chamo Caio 👋
 
 ### Sou programador iniciante com habilidades em Next.js e Python. 
-O meu objetivo atualmente é desenvolver um **SaaS direcionado para lanchonetes** 🍔.
+O meu objetivo atualmente é desenvolver um **SaaS direcionado para empreendedoras que realizam serviços de beleza**.
 
 ---
 
